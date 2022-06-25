@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Lindao89/QUE-ES-COMPORTAMIENTO-ORGANIZACIONAL/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lindao89/QUE-ES-COMPORTAMIENTO-ORGANIZACIONAL/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## BIEMVENIDO A LA PAGINA DE COMPORTAMIENTO ORGANIZACIONAL
+Es decir, se trata del estudio y la investigación aplicada, que se centran en el funcionamiento interno de las organizaciones, en base a distintos niveles de análisis, como son:
+La estructura organizacional,
+La motivación de los trabajadores,
+El compromiso organizacional,
+Las dinámicas de comunicación,
+El trabajo en equipo,
+La cultura y clima organizacionales,
+El liderazgo y los procesos de cambio.
+El comportamiento organizacional parte de la idea de que la conducta humana es, hasta cierto punto, predecible, y que las dinámicas puestas en marcha dentro de una organización pueden influirla de manera positiva o negativa.
+Para ello, echa mano a herramientas de otras disciplinas cercanas, como la administración, la psicología, la sociología, las ciencias de la comunicación e incluso la antropología.
+script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  intent="WELCOME"
+  chat-title="IA"
+  agent-id="273c4f71-7ce7-4f5b-bbd5-c91dbdc4ca6f"
+  language-code="en"
+></df-messenger>
